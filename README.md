@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tino1112
-- 👀 I’m interested in app and game developing
-- 🌱 I’m currently learning python
+- 👀 I’m interested web, app and game developing
+- 🌱 I’m currently learning Python, my skills are HTML and CSS
 - 💞️ I’m looking to collaborate on any project to get some knowladge
 - 📫 How to reach me my email tinoradovanovic@gmail.com
 
